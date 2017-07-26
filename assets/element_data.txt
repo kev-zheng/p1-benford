@@ -1,0 +1,61 @@
+number	symbol	name	use	WEL	CRC
+3	Li	lithium	4.2	4.2	
+4	Be	beryllium	132	132	
+11	Na	sodium	3.3	3.3	
+12	Mg	magnesium	17	17	
+13	Al	aluminium	26	26	
+19	K	potassium	1.3	1.3	
+20	Ca	calcium	7.4	7.4	
+21	Sc	scandium	29.1	29	29.1
+22	Ti	titanium	44	44	
+23	V	vanadium	47	47	
+24	Cr	chromium	115	115	
+26	Fe	iron	82	82	
+27	Co	cobalt	75	75	
+28	Ni	nickel	76	76	
+29	Cu	copper	48	48	
+30	Zn	zinc	43	43	
+34	Se	selenium	3.7	3.7	
+38	Sr	strontium	6.1	6.1	
+39	Y	yttrium	25.6	26	25.6
+40	Zr	zirconium	33	33	
+41	Nb	niobium	38	38	
+42	Mo	molybdenum	120	120	
+44	Ru	ruthenium	173	173	
+45	Rh	rhodium	150	150	
+46	Pd	palladium	44	44	
+47	Ag	silver	30	30	
+48	Cd	cadmium	19	19	
+50	Sn	tin	18	18	
+51	Sb	antimony	20	20	
+52	Te	tellurium	16	16	
+56	Ba	barium	4.9	4.9	
+57	La	lanthanum	(α form) 14.3	14	(α form) 14.3
+58	Ce	cerium	(γ form) 13.5	14	(γ form) 13.5
+59	Pr	praseodymium	(α form) 14.8	15	(α form) 14.8
+60	Nd	neodymium	(α form) 16.3	16	(α form) 16.3
+61	Pm	promethium	(α form) est. 18	18	(α form) est. 18
+62	Sm	samarium	(α form) 19.5	20	(α form) 19.5
+63	Eu	europium	7.9	7.9	7.9
+64	Gd	gadolinium	(α form) 21.8	22	(α form) 21.8
+65	Tb	terbium	(α form) 22.1	22	(α form) 22.1
+66	Dy	dysprosium	(α form) 24.7	25	(α form) 24.7
+67	Ho	holmium	26.3	26	26.3
+68	Er	erbium	28.3	28	28.3
+69	Tm	thulium	30.5	31	30.5
+70	Yb	ytterbium	(β form) 9.9	9.9	(β form) 9.9
+71	Lu	lutetium	27.2	27	27.2
+72	Hf	hafnium	30	30	
+73	Ta	tantalum	69	69	
+74	W	tungsten	161	161	
+75	Re	rhenium	178	178	
+76	Os	osmium	222	222	
+77	Ir	iridium	210	210	
+78	Pt	platinum	61	61	
+79	Au	gold	27	27	
+81	Tl	thallium	2.8	2.8	
+82	Pb	lead	5.6	5.6	
+83	Bi	bismuth	12	12	
+90	Th	thorium	31	31	
+92	U	uranium	111	111	
+94	Pu	plutonium	43	43	
